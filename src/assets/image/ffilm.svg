@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 198.8 143.1">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: #d51f26;
+      }
+
+      .cls-1, .cls-4, .cls-5, .cls-6 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2, .cls-3 {
+        font-family: Arial-BoldMT, Arial;
+        font-size: 45.4px;
+        font-weight: 700;
+      }
+
+      .cls-2, .cls-3, .cls-7 {
+        isolation: isolate;
+      }
+
+      .cls-4 {
+        fill: #000;
+      }
+
+      .cls-5 {
+        fill: #231f20;
+      }
+
+      .cls-6 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <path class="cls-4" d="M5.3,5.3h64c2.9,0,5.3,2.4,5.3,5.3h0v5.1H0v-5.1c0-2.9,2.4-5.3,5.3-5.3,0,0,0,0,0,0Z"/>
+    <path class="cls-5" d="M60.2,79.8h14.4v-11.6c-8.3,0-13.9,2.2-14.4,11.6Z"/>
+    <path class="cls-1" d="M74.6,46.7V15.7H0v127.4h37.3v-62.8c0-19.9,13.3-33.6,37.3-33.6Z"/>
+    <path class="cls-5" d="M68.2,97.5c-5,0-8,6.2-8,23v22.6h14.4v-30.7c0-10.5-2.5-14.9-6.4-14.9Z"/>
+    <rect class="cls-6" x="9.8" y="19.1" width="10.4" height="10.4"/>
+    <rect class="cls-6" x="31.4" y="19.1" width="10.4" height="10.4"/>
+    <rect class="cls-6" x="52.6" y="19.1" width="10.4" height="10.4"/>
+    <path class="cls-4" d="M26.5,0h21.8c2.9,0,5.3,2.4,5.3,5.3H21.2c0-2.9,2.4-5.3,5.3-5.3h0Z"/>
+    <path class="cls-5" d="M127.8,121c-3.2,0-5.1,3-5.1,11v10.9h-10.5v-30.3h10.5v2.9c2.4-2.2,5.6-3.5,8.9-3.5,4.4,0,7.3,1.8,9.1,5.5,2.5-3.4,6.5-5.5,10.7-5.5,7.4,0,10.9,5.3,10.9,15.8v15.2h-10.5v-14.6c0-5-1.3-7.3-4.1-7.3s-5.2,2.7-5.2,10.8v11.1h-10.5v-14.7c0-5.1-1.6-7.2-4.1-7.2Z"/>
+    <path class="cls-5" d="M187.6,111.9c3.8,0,8.2,1,10.1,2.4v9.3c-.8-.7-3.6-3.4-7.5-3.4s-2.7.9-2.7,1.9c0,3.2,11.2,4.3,11.2,12.1s-4.9,9.2-12.2,9.2c-4.2,0-8.3-.8-12-2.7v-9.3c1.3,1,5.6,3.6,8.7,3.6s2-.4,2-1.5c0-2.6-11.2-4.2-11.2-12,0-5.3,5-9.7,13.7-9.7Z"/>
+    <path class="cls-5" d="M93.6,68.1c-4.9,0-7.9,10.2-7.9,37.8v37.1h14.3v-50.4c0-17.2-2.5-24.5-6.3-24.5Z"/>
+    <g class="cls-7">
+      <text class="cls-2" transform="translate(207.6 143.5) scale(1.1 1)"><tspan x="0" y="0">A</tspan></text>
+      <text class="cls-3" transform="translate(237 143.5) scale(1.1 1)"><tspan x="0" y="0">dm</tspan></text>
+      <text class="cls-3" transform="translate(305.5 143.5) scale(1.1 1)"><tspan x="0" y="0">i</tspan></text>
+      <text class="cls-3" transform="translate(315.9 143.5) scale(1.1 1)"><tspan x="0" y="0">n</tspan></text>
+    </g>
+  </g>
+</svg>
